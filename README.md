@@ -186,7 +186,7 @@ Queue sesudah  : [50, 40, 30, 20, 10]
 Pastikan Python 3 sudah terinstall, lalu jalankan:
 
 ```bash
-python latihan_bab8_struktur_data.py
+python latihan bab 8.py
 ```
 
 Tidak ada dependensi eksternal — hanya menggunakan modul bawaan Python (`random`).
